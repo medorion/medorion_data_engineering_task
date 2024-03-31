@@ -1,0 +1,4 @@
+date,member_id,measure_id,status
+2023-01-01,78372,adherent_to_diabetes_medications,0.38
+2023-01-01,78372,adherent_to_high_colorectal_medications,0.9
+2023-01-01,78372,adherent_to_high_blood_pressure_medications,0.05
