@@ -69,4 +69,3 @@ Do not open a PR to this repository. Please fork it and push you work to your ow
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-# medorion_data_engineering_challenge
