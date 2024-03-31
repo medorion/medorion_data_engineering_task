@@ -1,4 +1,4 @@
-# MedOrion Data Engineering Challenge
+# MedOrion Data Engineering Task
 
 ## Introduction
 MedOrion is a healthcare company that motivates patients to take care of their health. 
@@ -58,7 +58,7 @@ The report should have the following columns:
 ### Recommended steps
 - Start with data exploration, and ask for clarification if needed.
 - In BigQuery, Create a new schema and manually load the CSVs. You can use [load file upload option](https://cloud.google.com/bigquery/docs/batch-loading-data#loading_data_from_local_files) in the BigQuery UI.
-- Create new DBT project.
+- Create new DBT project (if you don't have DBT installed follow this [guide](https://docs.getdbt.com/docs/core/pip-install)).
 - Implement the requirements part by part, do move to the second part before you complete the first one.
 - We believe that complete all the parts should take about 3 hours. We respect your time, if you go over the 3 hours then you can stop and submit what you have done. 
 
