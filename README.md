@@ -38,7 +38,8 @@ In addition, they should be able to know when the features were calculated.
 - Take into account that we might need to create more features in the future.
 - If you are not sure about the logic then you can ask for clarification or make an assumption and document it.
 - Try to avoid repeating code by using [macros](https://docs.getdbt.com/docs/build/jinja-macros) when it is possible.
-- Share your solution using GitHub. 
+- Place all the models in the same dataset, even if it makes more sense to split to different schemas.
+- Share your solution using GitHub.
 
 ### Recommended steps
 - Start with data exploration, and ask for clarification if needed.
