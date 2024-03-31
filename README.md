@@ -11,7 +11,7 @@ You can find [here](./seeds) the 2 CSV files:
 - members_care_status - updated weekly - append only
 
 
-## The requirements
+## Requirements
 Using the information in those files, we need to create features that will be used by our decision model inorder to decide which message we will send to each member.
 Here are the list of the features that we need to create:
 - `gender`
