@@ -14,7 +14,7 @@ Those files are already loaded to BigQuery, and you can find them in the `coding
 ## Requirements
 Based on the information in those files, our decision model decide which message we will send to each member.
 
-The data science team train the model using a features set that is calculated for each member.
+The data science team train the model using a features set that is calculated for each **active** member.
 
 Here are the features that we need to create:
 - `gender`
@@ -38,12 +38,12 @@ The options for the trend are: `('increasing', 'decreasing', 'no_change')`.
 The features should be easy to query by the data science team. Usually they will need all of them at the same time.
 
 ### The task
-We already implemented the features that mentioned above, but we deleted the implementation of few of them.
+We already implemented the features that mentioned above, but we deleted the implementation of some of them.
 You will find a `TODO` comments in the code that will guide you to the missing implementation.
 
 - You should implement the missing features and make sure that it meets the requirements.
 - You should think how to implement the logic of `has_[conditions]` and how you can infer that using the data we have.
-- You can add more models or macros if you think that it is needed.
+- You can add more models or macros if you think that it is needed, you don't have to stick to the current structure.
 
 ### Recommended steps
 - Clone this repository.
