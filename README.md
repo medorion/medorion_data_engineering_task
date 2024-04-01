@@ -9,7 +9,7 @@ You can find [here](./seeds) the 2 CSV files:
 - members - updated weekly, (members == patients) 
 - members_care_status - updated weekly - append only
 
-Those files are already loaded to BigQuery, and you can find them in the `coding-exercises-418913.raw_data` dataset.
+Those files are already loaded to BigQuery, and you can find them in the [`coding-exercises-418913.raw_data` dataset](https://console.cloud.google.com/bigquery?organizationId=334929111005&project=coding-exercises-418913&ws=!1m4!1m3!3m2!1scoding-exercises-418913!2sraw_data).
 
 ## Requirements
 Based on the information in those files, our decision model decide which message we will send to each member.
