@@ -42,7 +42,7 @@ We already implemented the features that mentioned above, but we deleted the imp
 You will find a `TODO` comments in the code that will guide you to the missing implementation.
 
 - You should implement the missing features and make sure that it meets the requirements.
-- You should think how to implement the logic of `has_[conditions]` and how you can infer that using the data we have.
+- You should think how to implement the logic of `has_[conditions]` and `[condition]_trend` how you can infer that using the data we have.
 - You can add more models or macros if you think that it is needed, you don't have to stick to the current structure.
 
 ### Recommended steps
