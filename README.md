@@ -55,7 +55,7 @@ You will find a `TODO` comments in the code that will guide you to the missing i
 - Start with data exploration, and ask for clarification if needed.
 - Implement the missing features. leave `condition_medication_trend.sql` to the end.
 - We believe that the task should take about 3 hours. We respect your time, if you go over the 3 hours then you can stop and submit what you have done.
-- Share your solution using GitHub. Do not open a PR to this repository!!! Please fork it and push your work to your own repository.
+- Share your solution using GitHub. Do not open a PR to this repository!!! Please push it to your work to your own repository.
 
 
 ### Configure your DBT project to use the BigQuery profile
@@ -81,7 +81,7 @@ medorion_data_engineering_task:
 
 
 ### Important!
-Do not open a PR to this repository!!! Please fork it and push you work to your own repository.
+Do not open a PR to this repository!!! Please push it to your work to your own repository.
 
 
 ### Resources:
