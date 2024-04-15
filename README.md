@@ -49,7 +49,7 @@ You will find a `TODO` comments in the code that will guide you to the missing i
 - Clone this repository.
 - Install gcloud using this [guide](https://cloud.google.com/sdk/docs/install).
 - Login to you GCP account using the command like `gcloud auth login --update-adc`.
-- Install DBT using this [guide](https://docs.getdbt.com/docs/core/pip-install).
+- Install DBT using this [guide](https://docs.getdbt.com/docs/core/pip-install) (make sure to install `dbt-bigquery` adapter).
 - Configure your DBT project to use the BigQuery profile (see bellow).
 - Execute the DBT project using the command `dbt run`.
 - Start with data exploration, and ask for clarification if needed.
